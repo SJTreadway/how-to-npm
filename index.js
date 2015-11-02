@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// NODE.JS
 
 var adventure = require('adventure')
 var shop = module.exports = adventure({
